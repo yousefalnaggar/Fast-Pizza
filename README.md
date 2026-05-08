@@ -11,10 +11,6 @@ A modern, full-featured pizza ordering web application that allows users to brow
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
 
-## 📄 License
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
-
 ## 📚 Table of Contents
 
 - [🌟 Overview](#-overview)
@@ -27,7 +23,7 @@ A modern, full-featured pizza ordering web application that allows users to brow
 
 Fast Pizza Co is a comprehensive pizza ordering application built with modern React technologies. The application provides a seamless user experience for browsing pizza menus, managing shopping carts, placing orders, and tracking order status. Built with performance and user experience in mind, it features a responsive design that works perfectly across all devices.
 
-🌐 **[Live Preview](https://your-live-demo-url.com)** - Try the application online!
+🌐 **[Live Preview](https://fast-pizza-webapp.vercel.app/)** - Try the application online!
 
 The project demonstrates advanced React patterns including:
 - Feature-based architecture
@@ -63,8 +59,8 @@ Before running this application, ensure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/fast-pizza-co.git
-   cd fast-pizza-co
+   git clone https://github.com/yousefalnaggar/Fast-Pizza.git
+   cd Fast-Pizza
    ```
 
 2. **Install dependencies**
